@@ -9,12 +9,11 @@ def areIsomorphic(str1,str2):
         str2Map[c2]=c1
     return True
 
-
 # def areIsomorphic(pattern,s):
 #     str1Map={}
 #     str2Map={}
 #     s=s.split(" ")
-#     print(s)
+#     print(
 #     for i in range(len(pattern)):
 #         char1=pattern[i]
 #         elem1=s[i]
